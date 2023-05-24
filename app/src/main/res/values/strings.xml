@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DiNa</string>
+    <string name="star">star</string>
+    <string name="desc_regis">Create account by filling the form below or scan your namecard.</string>
+    <string name="enter_Name">Username</string>
+    <string name="enter_phone">Phone Number</string>
+    <string name="must_not_empty">Must Not Empty</string>
+    <string name="not_type_email">Wrong Email Format (@)</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="login">Sign In</string>
+    <string name="register">Sign Up</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="enter_password">Password</string>
+    <string name="more_than_character">More than character</string>
+    <string name="notif">Notification</string>
+    <string name="setting">settings</string>
+    <string name="home">Home</string>
+    <string name="Share">Share</string>
+    <string name="PakacageShare">Package Share</string>
+    <string name="Profile">Profile</string>
+    <string name="barcode">Scan Barcode</string>
+    <string name="stream">Streamline your networking with DiNa</string>
+    <string name="intro">“DiNa” for quickly and easily share and organize contact information, without the hassle of physical business cards.</string>
+    <string name="lets_start">Start</string>
+    <string name="Up_img">Upload Image</string>
+    <string name="or_sigin">Or Sign In With</string>
+    <string name="google">Google</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nomor">\n +6209987766</string>
+    <string name="input_email">\n \n hsbdhdh@example.com</string>
+    <string name="title_company">PT.example.jaya</string>
+    <string name="adress_company">Jl.blablaaaa</string>
+    <string name="web_company"> www.company.com</string>
+    <string name="scanme">SCAN ME</string>
+    <string name="desc_share">“Effortlessly exchange business cards”</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="job_title">Job title</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="title_activity_my_aplication_theme">MyAplicationTheme</string>
+
+</resources>
